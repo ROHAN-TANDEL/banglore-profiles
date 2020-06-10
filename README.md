@@ -49,7 +49,9 @@ QA & UAT Management
 
 ### 2. "Ronak P" - NodeJS, Angular JS, *Senior Architect Full Stack Developer* 5+ years
 
-### 5. "Rohan D" -  PHP, *UI- UX Designer Architecture Project Management* 3+ years
+### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -- -  - - - -- - - - - - - - - - - - - -  - - - - 
+
+### 3. "Rohan D" -  PHP, *UI- UX Designer Architecture Project Management* 3+ years
 Experienced in educational, medical, food and music industry Actively looking for a position as a software engineer in a solid shining edge firm to contribute and earn growth of skills in the IT industry
 Have involved successfully in architecture design termed microservice. Efficient dealing with clients, flexible with SDLC SE models...  and event driven Perfect Leadership and project Management leading 2 teams. Added With good skills for debugging, mentoring and bringing the delivery on time...
 
@@ -86,7 +88,7 @@ and ER Diagrams, UML, Knowledge of Design Prototype and Agile model, PPTs…
 
 ### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -- -  - - - -- - - - - - - - - - - - - -  - - - - 
 
-### 3. "Devendra S" - AngularJs AWS - Front End Developer 4+ years 
+### 4. "Devendra S" - AngularJs AWS - Front End Developer 4+ years 
 
 ![Image]
 (https://octodex.github.com/images/yaktocat.png)
@@ -111,7 +113,7 @@ Socket.io
 </pre>
 ### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -- -  - - - -- - - - - - - - - - - - - -  - - - - 
 
-### 4. "Veeresh G" - DBA - 3+ years 
+### 5. "Veeresh G" - DBA - 3+ years 
 
 ![Image]
 (https://octodex.github.com/images/yaktocat.png)
