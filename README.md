@@ -17,7 +17,8 @@ what we provide - aws, GCP, serverless architechture, client-server architechtur
 
 # Our Team
 
-### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -- -  - - - -- - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - -
+### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -- -  - - - -- - - - - - - - - - - - - -  - - - - - - - - - - - - - - - -
+
 ### 1. "Sarang R" - PHP, PYTHON - *Full Stack Developer - junior architect*  5 years 
 
 Versatile, reliable and efficient with 4 years experience
@@ -45,11 +46,11 @@ Offshore Development  Operations Pandas DataFrame
 
 QA & UAT Management
 </pre>
-### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -- -  - - - -- - - - - - - - - - - - - -  - - - - 
+### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -- -  - - - -- - - - - - - - - - - - - -  - - - - - - - - - - - - - - - -
 
 ### 2. "Ronak P" - NodeJS, Angular JS, *Senior Architect Full Stack Developer* 5+ years
 
-### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -- -  - - - -- - - - - - - - - - - - - -  - - - - 
+### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -- -  - - - -- - - - - - - - - - - - - -  - - - - - - - - - - - - - - - -
 
 ### 3. "Rohan D" -  PHP, *UI- UX Designer Architecture Project Management* 3+ years
 Experienced in educational, medical, food and music industry Actively looking for a position as a software engineer in a solid shining edge firm to contribute and earn growth of skills in the IT industry
@@ -86,7 +87,7 @@ and ER Diagrams, UML, Knowledge of Design Prototype and Agile model, PPTs…
 
 </pre>
 
-### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -- -  - - - -- - - - - - - - - - - - - -  - - - - 
+### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -- -  - - - -- - - - - - - - - - - - - -  - - - - - - - - - - - - - - - -
 
 ### 4. "Devendra S" - AngularJs AWS - Front End Developer 4+ years 
 
@@ -111,7 +112,8 @@ RESTful WebServices MVC Architecture  Git, Github     Body-Parser,
 
 Socket.io
 </pre>
-### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -- -  - - - -- - - - - - - - - - - - - -  - - - - 
+
+### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -- -  - - - -- - - - - - - - - - - - - -  - - - - - - - - - - - - - - - -
 
 ### 5. "Veeresh G" - DBA - 3+ years 
 
@@ -134,7 +136,7 @@ Sql Profiler
 Service Desk, JIRA
 </pre>
 
-### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -- -  - - - -- - - - - - - - - - - - - -  - - - - 
+### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -- -  - - - -- - - - - - - - - - - - - -  - - - - - - - - - - - - - - - -
 
 
 ### point of Contact
