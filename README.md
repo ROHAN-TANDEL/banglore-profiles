@@ -1,30 +1,30 @@
 # TEAM No. - 3
 
 
-#### Hi we are the team of Freelancer having greater expirience in designing development implimentation and deployment.
+Hi we are the team having greater expirience in designing development implimentation and deployment.
 
 #### We take projects from requirments to deployment and maintainance.
 
-#### Our team has expirienced professionals who have worked on data intensive, cpu intensive application.
+Our team has expirienced professionals who have worked on data intensive, cpu intensive application.
 
 #### Our work invovled solutions from core and reusable modules. involved quatily and strong communication.
 
-#### We not only provide great solutions but we also help your business grow faster with our network.
+We not only provide great solutions but we also help your business grow faster with our network.
 
-Have  designed architecture involve event driven, microservice, SOA. Efficient dealing with clients, flexible with SDLC SE models...  and event driven 
+#### Have  designed architecture involve event driven, microservice, SOA. Efficient dealing with clients, flexible with SDLC SE models...  and event driven 
 
 Perfect Leadership and project Management. Added With good skills for debugging, mentoring and bringing the delivery on time...
 
-Efficient development factor, Process oriented, requirement gathering dealing with internal/external clients to discuss and determine specific requirements… and document.
+#### Efficient development factor, Process oriented, requirement gathering dealing with internal/external clients to discuss and determine specific requirements… and document.
 
- seminars and sessions on application design, efficient code practice, code standards.  Involved  in organization’s selection process of conducting interviews
+Seminars and sessions on application design, efficient code practice, code standards.  Involved  in organization’s selection process of conducting interviews
 
-Involved in the product release. Issue Tracking Worked on high user base data. provided solutions to the remote team utilizing a stack of communications tools  ensuring uninterrupted results.
+#### Involved in the product release. Issue Tracking Worked on high user base data. provided solutions to the remote team utilizing a stack of communications tools  ensuring uninterrupted results.
 
 
 ### we are based on banglore with our dynamic unit and rare talent 
 
-what we provide - aws, GCP, serverless architechture, client-server architechture, microservices, monolithic, SOA AngularJS, NodeJs, Python, PHP, CICD, JQuery, Microservices, MVC, Laravel, Django ExpressJS and more...
+what we provide - AWS, GCP, serverless architechture, client-server architechture, microservices, monolithic, SOA AngularJS, NodeJs, Python, PHP, CICD, JQuery, Microservices, MVC, Laravel, Django ExpressJS and more...
 
 # Our Team
 
