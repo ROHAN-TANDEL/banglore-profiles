@@ -5,7 +5,7 @@
 
 #### We take projects from requirments to deployment and maintainance.
 
-#### Our team have expirienced professionals who have worked on data intensive, cpu intensive application.
+#### Our team has expirienced professionals who have worked on data intensive, cpu intensive application.
 
 #### Our work invovled solutions from core and reusable modules. involved quatily and strong communication.
 
