@@ -30,7 +30,7 @@ what we provide - aws, GCP, serverless architechture, client-server architechtur
 
 ### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -- -  - - - -- - - - - - - - - - - - - -  - - - - - - - - - - - - -
 
-### 1. "Sarang R" - PHP, PYTHON - *Full Stack Developer - junior architect*  5 years 
+### 1. "Sarang R" - PHP, PYTHON - Full Stack Developer - junior architect - 4+ years 
 
 Versatile, reliable and efficient with 4 years experience
 supporting managers and executives in high paced environments. Established operations leveraging
@@ -60,11 +60,12 @@ QA & UAT Management
 
 ### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -- -  - - - -- - - - - - - - - - - - - -  - - - - - - - - - - - - -
 
-### 2. "Ronak P" - NodeJS, Angular JS, *Senior Architect Full Stack Developer* 5+ years
+### 2. "Ronak P" - NodeJS, Angular JS, Senior Architect Full Stack Developer 5 years
 
 ### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -- -  - - - -- - - - - - - - - - - - - -  - - - - - - - - - - - - -
 
-### 3. "Rohan D" -  PHP, *UI- UX Designer Architecture Project Management* 3+ years
+### 3. "Rohan D" -  PHP - UI- UX Designer Architecture Project Management - 3+ years
+
 Experienced in educational, medical, food and music industry Actively looking for a position as a software engineer in a solid shining edge firm to contribute and earn growth of skills in the IT industry
 Have involved successfully in architecture design termed microservice. Efficient dealing with clients, flexible with SDLC SE models...  and event driven Perfect Leadership and project Management leading 2 teams. Added With good skills for debugging, mentoring and bringing the delivery on time...
 
@@ -101,7 +102,7 @@ and ER Diagrams, UML, Knowledge of Design Prototype and Agile model, PPTs…
 
 ### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -- -  - - - -- - - - - - - - - - - - - -  - - - - - - - - - - - - -
 
-### 4. "Devendra S" - AngularJs AWS - Front End Developer 4+ years 
+### 4. "Devendra S" - AngularJs AWS - Front End Developer - 4+ years 
 
 Software Developer in development, design, analysis, testing (Manual) and implementation of web and client server applications using Microsoft Technologies. • Hands full of Application development using with Angular 2, 4, 6 & 7 using Typescript as the code-behind language and Web technologies like HTML5 and database as SQL Server, MySQL.
 
@@ -126,7 +127,7 @@ Socket.io
 
 ### 5. "Veeresh G" - DBA - 3+ years 
 
-More than 3 years of experience in Sql Server 2008,2012,2014 More than 3 Years of Experience in SQL server, .Net Application Support, Sql Reports. Have experience in SQL Server Database Administration. The main responsibilities are Maintenance Plan, Backup, Recovery, Log Shipping, Space management, Monitoring, Troubleshooting, Performance tuning etc. Expertise in T-SQL writing stored procedures, triggers and functions. Worked on configuring SQL Server with minimum privileged access. Completed Corporate training On ( SQL server, Sql server DBA ) in Besant
+More than 3 years of experience in Sql Server 2008,2012,2014 More than 3 Years of Experience in SQL server, .Net Application Support, Sql Reports. Have experience in SQL Server Database Administration. The main responsibilities are Maintenance Plan, Backup, Recovery, Log Shipping, Space management, Monitoring, Troubleshooting, Performance tuning etc. Expertise in T-SQL writing stored procedures, triggers and functions. Worked on configuring SQL Server with minimum privileged access. Completed Corporate training On ( SQL server, Sql server DBA ) in Besant Technology
 
 
 skills
