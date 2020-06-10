@@ -61,7 +61,7 @@ QA & UAT Management
 
 ### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -- -  - - - -- - - - - - - - - - - - - -  - - - - - - - - - - - - -
 
-### 2. "Ronak P" - NodeJS, Angular JS, Senior Architect Full Stack Developer 5 years
+### 2. "Ronak P" - NodeJS, Angular JS, Senior Architect Full Stack Developer 5 years - (available until 13th July)
 
 ### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -- -  - - - -- - - - - - - - - - - - - -  - - - - - - - - - - - - -
 
