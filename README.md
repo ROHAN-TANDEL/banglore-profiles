@@ -91,9 +91,6 @@ and ER Diagrams, UML, Knowledge of Design Prototype and Agile model, PPTs…
 
 ### 4. "Devendra S" - AngularJs AWS - Front End Developer 4+ years 
 
-![Image]
-(https://octodex.github.com/images/yaktocat.png)
-
 Software Developer in development, design, analysis, testing (Manual) and implementation of web and client server applications using Microsoft Technologies. • Hands full of Application development using with Angular 2, 4, 6 & 7 using Typescript as the code-behind language and Web technologies like HTML5 and database as SQL Server, MySQL.
 
 JNTU - VKR, VNB & AGK engineering college  - COMPUTER SCIENCE ENGINEERING - 2016
@@ -116,9 +113,6 @@ Socket.io
 ### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -- -  - - - -- - - - - - - - - - - - - -  - - - - - - - - - - - - - - - -
 
 ### 5. "Veeresh G" - DBA - 3+ years 
-
-![Image]
-(https://octodex.github.com/images/yaktocat.png)
 
 More than 3 years of experience in Sql Server 2008,2012,2014 More than 3 Years of Experience in SQL server, .Net Application Support, Sql Reports. Have experience in SQL Server Database Administration. The main responsibilities are Maintenance Plan, Backup, Recovery, Log Shipping, Space management, Monitoring, Troubleshooting, Performance tuning etc. Expertise in T-SQL writing stored procedures, triggers and functions. Worked on configuring SQL Server with minimum privileged access. Completed Corporate training On ( SQL server, Sql server DBA ) in Besant
 
