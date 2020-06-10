@@ -17,7 +17,7 @@ what we provide - aws, GCP, serverless architechture, client-server architechtur
 
 # Our Team
 
-### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -- -  - - - -- - - - - - - - - - - - - -  - - - - 
+### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -- -  - - - -- - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - -
 ### 1. "Sarang R" - PHP, PYTHON - *Full Stack Developer - junior architect*  5 years 
 
 Versatile, reliable and efficient with 4 years experience
