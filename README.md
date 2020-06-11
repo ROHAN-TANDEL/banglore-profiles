@@ -22,10 +22,46 @@ Seminars and sessions on application design, efficient code practice, code stand
 #### Involved in the product release. Issue Tracking Worked on high user base data. provided solutions to the remote team utilizing a stack of communications tools ensuring uninterrupted results.
 
 
-
 ### we are based on Bangalore with our dynamic unit and rare talent
 
 that we provide - AWS, GCP, serverless architecture, client-server architecture, microservices, monolithic, SOA AngularJS, NodeJs, Python, PHP, CICD, JQuery, Microservices, MVC, Laravel, Django ExpressJS and more…
+
+
+
+
+# Domain We Worked:
+
+Music Industry  - developed products similar to Spotify, bambwa, 
+
+### Educational field  -  developed products similar to Mindspark, Byju's, GreenLights
+
+Health care and Hospital management  -  products similar to Aurobindo
+
+### Travel Industry  -  developed products similar mrf-types 
+
+Food industry  -  developed products similar to udaan, bigbasket
+
+
+
+
+# Why you Should connect
+
+We are a team of greater experienced professionals
+
+### tasks are always organized 
+
+DOT - Delivery on time
+
+### We provide you the options to select our members for your work 
+
+You can speed up your work adding more members from teams in no time.
+
+### you can replace the candidate can make a call to revise the budget
+
+and more...
+
+
+
 
 # Our Team
 
@@ -146,7 +182,11 @@ Service Desk, JIRA
 
 ### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -- -  - - - -- - - - - - - - - - - - - -  - - - - - - - - - - - - -
 
+### 6. "Jayson W" - Android Developer - 3+ years 
 
-### point of Contact
+### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -- -  - - - -- - - - - - - - - - - - - -  - - - - - - - - - - - - -
+
+### point of Contact/ask/Quries/start
+
 ### Rohan          - 09591343150
 ### Dr. Jayanth H  - 09972338828
