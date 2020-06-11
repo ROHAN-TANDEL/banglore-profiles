@@ -30,18 +30,19 @@ that we provide - AWS, GCP, serverless architecture, client-server architecture,
 
 
 
-# Domain We Worked
+# Domain We Work
 
-Music Industry  - developed products similar to Spotify, bambwa, 
+"Music Industry"  - developed products similar to Spotify, bambwa, 
 
-### Educational field  -  developed products similar to Mindspark, Byju's, GreenLights
+### "Educational field"  -  developed products similar to Mindspark, Byju's, GreenLights
 
-Health care and Hospital management  -  products similar to Aurobindo
+"Health care and Hospital management"  -  products similar to Aurobindo
 
-### Travel Industry  -  developed products similar mrf-types 
+### "Travel Industry"  -  developed products similar mrf-types 
 
-Food industry  -  developed products similar to udaan, bigbasket
+"Food industry"  -  developed products similar to udaan, bigbasket
 
+and more
 
 ### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -- -  - - - -- - - - - - - - - - - - - -  - - - - - - - - - - - - -
 
