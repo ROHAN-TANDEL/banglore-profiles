@@ -26,10 +26,11 @@ Seminars and sessions on application design, efficient code practice, code stand
 
 that we provide - AWS, GCP, serverless architecture, client-server architecture, microservices, monolithic, SOA AngularJS, NodeJs, Python, PHP, CICD, JQuery, Microservices, MVC, Laravel, Django ExpressJS and more…
 
+### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -- -  - - - -- - - - - - - - - - - - - -  - - - - - - - - - - - - -
 
 
 
-# Domain We Worked:
+# Domain We Worked
 
 Music Industry  - developed products similar to Spotify, bambwa, 
 
@@ -42,6 +43,7 @@ Health care and Hospital management  -  products similar to Aurobindo
 Food industry  -  developed products similar to udaan, bigbasket
 
 
+### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -- -  - - - -- - - - - - - - - - - - - -  - - - - - - - - - - - - -
 
 
 # Why you Should connect
@@ -58,7 +60,24 @@ You can speed up your work adding more members from teams in no time.
 
 ### you can replace the candidate can make a call to revise the budget
 
+You need more candidates
+
+### You want full project development
+
+you want candidate to work just for a week 
+
+### you want to pause development for further updates to start again
+
+you want new skill set in candidate
+
+### You have large application to build up
+
+You want candidates from local (we provide in pune, Banglore, Hyderabad)
+
+### You want best
+
 and more...
+### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -- -  - - - -- - - - - - - - - - - - - -  - - - - - - - - - - - - -
 
 
 
