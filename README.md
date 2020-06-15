@@ -1,4 +1,4 @@
-# TEAM No. - 3
+# NMAELES
 
 
 Hi, we are the team having greater experience in designing development implementation and deployment.
@@ -75,9 +75,80 @@ you want new skill set in candidate
 
 You want candidates from local (we provide in pune, Banglore, Hyderabad)
 
-### You want best
+### Fast and easy maintenance
 
-and more...
+Highly satisfactory result
+
+### Highly compatible with different operating systems like Windows, Unix, Linux
+
+Best for web programming and web development
+
+### Allows to add new functionalities
+
+Faster data processing with code libraries
+
+### Highly Secure and Reliable
+
+You want best
+
+### and more...
+
+
+# Our Experties
+
+## FULL STACK
+
+Full-Stack support and Maintenance
+
+### Stack plug-in development
+
+Full-Stack enhancement and updates
+
+### al Network development
+
+Full-Stack App Enhancement
+
+### mmerce application Development
+
+
+### -Stack upgradation and migration
+
+## MEAN STACK
+
+### ultation
+
+ERP development
+
+### app upgrade
+
+stack testing services
+
+### k support & maintenance services
+
+CMS design and Development
+
+## FRONT END
+
+### Script Frameworks (Angular, ReactJS, Vue, etc)
+
+ libraries (Bootstrap, Material Design CSS framework, etc)
+
+### preprocessors (SASS, LESS, Stylus)
+
+Cross-Browser Development
+
+### Graphic User Interface Design
+
+## BACK END
+
+###  Retrieval from database
+
+API Design and development
+
+### le addition for existing API
+
+Object-oriented Analysis and Design
+
 ### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -- -  - - - -- - - - - - - - - - - - - -  - - - - - - - - - - - - -
 
 
@@ -87,7 +158,7 @@ and more...
 
 ### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -- -  - - - -- - - - - - - - - - - - - -  - - - - - - - - - - - - -
 
-### 1. "Sarang R" - PHP, PYTHON - Full Stack Developer - junior architect - 4+ years 
+### **. "S Raghavendra" - PHP, PYTHON - Full Stack Developer - junior architect - 4+ years 
 
 Versatile, reliable and efficient with 4 years experience
 supporting managers and executives in high paced environments. Established operations leveraging
@@ -117,11 +188,29 @@ QA & UAT Management
 
 ### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -- -  - - - -- - - - - - - - - - - - - -  - - - - - - - - - - - - -
 
-### 2. "Ronak P" - NodeJS, Angular JS, Senior Architect Full Stack Developer 5 years - (available until 13th July)
+### **. "R Pareek" - NodeJS, Angular JS, Senior Architect Full Stack Developer 5 years
+
+willing to take challenge any time to make a sound position in corporate world and work enthusiastically in team to achieve goal of the organization with devotion and challenging work. Interested in working with different programming languages
+
+skills
+
+Database: MYSQL, MongoDB, Elasticsearch, Redis, Memcached
+
+Clouds: AWS 	App Architecture: Microservices 
+
+Version Control: GIT, BITBUCKET    
+
+engines: NodeJs
+
+Js Libraries: Jquery, SocketIO 
+
+Web Technologies: HTML, CSS, Bootstrap 4, Ajax
+
+Project Management, Project Release Management, People Management 
 
 ### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -- -  - - - -- - - - - - - - - - - - - -  - - - - - - - - - - - - -
 
-### 3. "Rohan D" -  PHP - UI- UX Designer Architecture Project Management - 3+ years
+### **. "S Bopanna" -  PHP - UI- UX Designer Architecture Project Management - 3+ years
 
 Experienced in educational, medical, food and music industry Actively looking for a position as a software engineer in a solid shining edge firm to contribute and earn growth of skills in the IT industry
 Have involved successfully in architecture design termed microservice. Efficient dealing with clients, flexible with SDLC SE models...  and event driven Perfect Leadership and project Management leading 2 teams. Added With good skills for debugging, mentoring and bringing the delivery on time...
@@ -159,7 +248,7 @@ and ER Diagrams, UML, Knowledge of Design Prototype and Agile model, PPTs…
 
 ### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -- -  - - - -- - - - - - - - - - - - - -  - - - - - - - - - - - - -
 
-### 4. "Devendra S" - AngularJs AWS - Front End Developer - 4+ years 
+### 4. "S Devendra" - AngularJs AWS - Front End Developer - 4+ years 
 
 Software Developer in development, design, analysis, testing (Manual) and implementation of web and client server applications using Microsoft Technologies. • Hands full of Application development using with Angular 2, 4, 6 & 7 using Typescript as the code-behind language and Web technologies like HTML5 and database as SQL Server, MySQL.
 
@@ -182,7 +271,7 @@ Socket.io
 
 ### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -- -  - - - -- - - - - - - - - - - - - -  - - - - - - - - - - - - -
 
-### 5. "Veeresh G" - DBA - 3+ years 
+### 5. "G Veeresh" - DBA - 3+ years 
 
 More than 3 years of experience in Sql Server 2008,2012,2014 More than 3 Years of Experience in SQL server, .Net Application Support, Sql Reports. Have experience in SQL Server Database Administration. The main responsibilities are Maintenance Plan, Backup, Recovery, Log Shipping, Space management, Monitoring, Troubleshooting, Performance tuning etc. Expertise in T-SQL writing stored procedures, triggers and functions. Worked on configuring SQL Server with minimum privileged access. Completed Corporate training On ( SQL server, Sql server DBA ) in Besant Technology
 
@@ -202,9 +291,7 @@ Service Desk, JIRA
 
 ### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -- -  - - - -- - - - - - - - - - - - - -  - - - - - - - - - - - - -
 
-### 6. "Jayson W" - Android Developer - 3+ years 
 
-### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -- -  - - - -- - - - - - - - - - - - - -  - - - - - - - - - - - - -
 
 ### point of Contact/ask/Quries/start
 
