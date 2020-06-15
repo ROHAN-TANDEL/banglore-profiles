@@ -104,14 +104,14 @@ Full-Stack support and Maintenance
 
 Full-Stack enhancement and updates
 
-### al Network development
+###  Network development
 
 Full-Stack App Enhancement
 
-### mmerce application Development
+### Ecommerce application Development
 
+Full Stack upgradation and migration
 
-### -Stack upgradation and migration
 
 ## MEAN STACK
 
@@ -127,6 +127,8 @@ stack testing services
 
 CMS design and Development
 
+and more...
+
 ## FRONT END
 
 ### Script Frameworks (Angular, ReactJS, Vue, etc)
@@ -139,6 +141,8 @@ Cross-Browser Development
 
 ### Graphic User Interface Design
 
+and more...
+
 ## BACK END
 
 ###  Retrieval from database
@@ -148,6 +152,8 @@ API Design and development
 ### le addition for existing API
 
 Object-oriented Analysis and Design
+
+and more...
 
 ### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -- -  - - - -- - - - - - - - - - - - - -  - - - - - - - - - - - - -
 
