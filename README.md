@@ -255,7 +255,7 @@ and ER Diagrams, UML, Knowledge of Design Prototype and Agile model, PPTs…
 
 ### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -- -  - - - -- - - - - - - - - - - - - -  - - - - - - - - - - - - -
 
-### 4. "S Devendra" - AngularJs AWS - Front End Developer - 4+ years 
+### **. "S Devendra" - AngularJs AWS - Front End Developer - 4+ years 
 
 Software Developer in development, design, analysis, testing (Manual) and implementation of web and client server applications using Microsoft Technologies. • Hands full of Application development using with Angular 2, 4, 6 & 7 using Typescript as the code-behind language and Web technologies like HTML5 and database as SQL Server, MySQL.
 
@@ -278,7 +278,7 @@ Socket.io
 
 ### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -- -  - - - -- - - - - - - - - - - - - -  - - - - - - - - - - - - -
 
-### 5. "G Veeresh" - DBA - 3+ years 
+### **. "G Veeresh" - DBA - 3+ years 
 
 More than 3 years of experience in Sql Server 2008,2012,2014 More than 3 Years of Experience in SQL server, .Net Application Support, Sql Reports. Have experience in SQL Server Database Administration. The main responsibilities are Maintenance Plan, Backup, Recovery, Log Shipping, Space management, Monitoring, Troubleshooting, Performance tuning etc. Expertise in T-SQL writing stored procedures, triggers and functions. Worked on configuring SQL Server with minimum privileged access. Completed Corporate training On ( SQL server, Sql server DBA ) in Besant Technology
 
