@@ -165,7 +165,7 @@ and more...
 
 ### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - -- -  - - - -- - - - - - - - - - - - - -  - - - - - - - - - - - - -
 
-### **. "S Raghavendra" - PHP, PYTHON - Full Stack Developer - junior architect - 4+ years 
+### **. "Rohan Tandel" - PHP, PYTHON - Full Stack Developer - junior architect - 4+ years 
 
 Versatile, reliable and efficient with 4 years experience
 supporting managers and executives in high paced environments. Established operations leveraging
@@ -302,5 +302,6 @@ Service Desk, JIRA
 
 ### point of Contact/ask/Quries/start
 
+### Rohan Tandel   - 09591343150
 ### Krishnan       - 09381439585
 ### Dr. Jayanth H  - 09972338828
